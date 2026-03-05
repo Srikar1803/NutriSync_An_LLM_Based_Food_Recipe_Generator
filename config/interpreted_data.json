@@ -1,0 +1,25 @@
+{
+  "activity_level": "Active",
+  "tdee_kcal": 2672.4,
+  "steps": 8500,
+  "heart_rate_bpm": 88.0,
+  "sleep_hours": 5.5,
+  "stress_level": 7,
+  "spo2_pct": 98.0,
+  "nutrient_flags": {
+    "prioritise_protein": true,
+    "prioritise_carbs": false,
+    "prioritise_magnesium": true,
+    "prioritise_omega3": true,
+    "prioritise_iron": false,
+    "prioritise_vitamin_c": false,
+    "prioritise_potassium": false
+  },
+  "flag_reasons": {
+    "prioritise_protein": "Active lifestyle \u2014 higher protein supports muscle repair",
+    "prioritise_magnesium": "Sleep < 6 hrs \u2014 magnesium aids sleep quality and muscle relaxation",
+    "prioritise_omega3": "Stress >= 7/10 \u2014 omega-3 fatty acids help reduce cortisol"
+  },
+  "biometric_summary": "Today was a moderately active day (8,500 steps). Estimated calorie need (TDEE): 2,672 kcal. Sleep was short at 5.5 hours (below the recommended 7\u20138 hrs). Stress level is high (7/10). Nutrients to prioritise in today's recipe: protein, magnesium, omega3.",
+  "timestamp": "2026-02-26T04:31:54"
+}
